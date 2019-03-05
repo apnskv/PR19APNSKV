@@ -18,9 +18,9 @@ Izdelali bi vizualizacije podatkov oz. grafe, ki bi na zanimiv, razločen in lah
 
 Povezave:
 
-- https://podatki.gov.si/dataset/surs2222005s (Nesreče po urah dneva)
+https://podatki.gov.si/dataset/surs2222005s (Nesreče po urah dneva)
 
-- https://podatki.gov.si/dataset/surs2222003s (Nesreče po mesecih v letu)
+https://podatki.gov.si/dataset/surs2222003s (Nesreče po mesecih v letu)
 
 - https://podatki.gov.si/dataset/surs2222001s (Nesreče po vrstah ceste)
 

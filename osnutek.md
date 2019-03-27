@@ -1,4 +1,4 @@
-# Opis problema in podatkov, ki jih nameravamo analizirati v projektu
+# Analiza prometnih nesreč in vzrokov
 
 Aljaž Podkrižnik (63170238), Klemen Vogler (63170305) in Nace Selišnik (63170260)
 

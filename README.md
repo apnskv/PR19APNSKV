@@ -30,13 +30,26 @@ Za vmesno poročilo smo uporabili 3 tabele podatkov, in sicer podatke o nesreča
 
 **Analiza podatkov**
 
-Za prvo analizo smo iz podatkov o nesrečah po mesecih primerjali število nesreč po posameznih mesecih in število lažje poškodovanih udeležencev v teh nesrečah. Podatke iz vseh let smo sešteli skupaj po mesecih, tako za nesreče kot tudi za lažje poškodovane udeležence. Spodaj je graf naših ugotovitev.
+Za prvo analizo smo iz podatkov o nesrečah po mesecih primerjali število nesreč po posameznih letih in število lažje poškodovanih udeležencev v teh nesrečah. Podatke smo sešteli skupaj po letih, tako za nesreče kot tudi za lažje poškodovane udeležence. Spodaj je graf naših ugotovitev.
 
 ![Nesreče in udeleženci po mesecih](./vmesno/slike/nesrece_udelezenci_po_letih.png?raw=true "Nesreče in udeleženci po mesecih")
 
 Ugotovili smo:
- - da je na začetku leta število nesreč zelo visoko, nato pa počasi pada proti koncu leta, kjer se v začetku zime spet nekoliko dvigne,
- - da število udeležencev z lahkimi telesnimi poškodbami sorazmerno niha z številom nesreč, vendar pa spremembe niso tako drastične.
+ - da se je število nesreč vsako leto zmanjšalo,
+ - da je bilo leta 2004 največ prometnih nesreč, prav tako pa tudi največ lažje poškodovanih udeležencev,
+ - da je med leti 2010 in 2013 število nesreč nekoliko narastlo, število lažje poškodovanih udeležencev pa se je zmanjšalo,
+ - sklepamo, da se je varnost na naših cestah zelo izboljšala v zadnjih letih.
+
+Pri drugi analizi smo iz podatkov o nesrečah po mesecih primerjali število nesreč za leti 2004 in 2014 po posameznem mesecu. 
+
+![Nesreče po mesecih za leti 2004 in 2014](./vmesno/slike/nesrece_po_mesecih_2004_2014.png?raw=true "Nesreče po mesecih za leti 2004 in 2014")
+
+Ugotovili smo:
+- da je bilo leta 2004 v povprečju za več kot 1-krat več nesreč kot v letu 2014,
+- da je bilo največ nesreč v jesenskih mesecih pri obeh letih,
+- leta 2004 je bilo marca najmanj nesreč, največ pa oktobra,
+- leta 2014 je bilo najmanj nesreč februarja, največ pa septembra,
+- Očitno se je varnost na cestah v desetih letih močno zvišala, saj je nesreč veliko manj.
 
 Tretjo analizo smo izdelali nad podatki o nesrečah iz različnih vrst cest v Sloveniji. Primerjali smo število nesreč na avtocestah in lokalnih cestah skozi leta od leta 2003 do 2014.
 

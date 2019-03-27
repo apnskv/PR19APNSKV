@@ -32,7 +32,7 @@ Za vmesno poročilo smo uporabili 3 tabele podatkov, in sicer podatke o nesreča
 
 Za prvo analizo smo iz podatkov o nesrečah po mesecih primerjali število nesreč po posameznih mesecih in število lažje poškodovanih udeležencev v teh nesrečah. Podatke iz vseh let smo sešteli skupaj po mesecih, tako za nesreče kot tudi za lažje poškodovane udeležence. Spodaj je graf naših ugotovitev.
 
-![Nesreče in udeleženci po mesecih](./vmesno/nesrece_udelezenci_po_mesecih.png?raw=true "Nesreče in udeleženci po mesecih")
+![Nesreče in udeleženci po mesecih](./vmesno/slike/nesrece_udelezenci_po_letih.png?raw=true "Nesreče in udeleženci po mesecih")
 
 Ugotovili smo:
  - da je na začetku leta število nesreč zelo visoko, nato pa počasi pada proti koncu leta, kjer se v začetku zime spet nekoliko dvigne,
@@ -42,7 +42,7 @@ Tretjo analizo smo izdelali nad podatki o nesrečah iz različnih vrst cest v Sl
 
 Na spodnjem grafu se lepo vidi razlika med številom nesreč na avtocesti ter na lokalnih cestah.
 
-![Nesreče na avtocestah in lokalnih cestah od leta 2003 do 2014](./vmesno/nesrece_tipi_cest.png?raw=true "Nesreče na avtocestah in lokalnih cesta od leta 2003 do 2014")
+![Nesreče na avtocestah in lokalnih cestah od leta 2003 do 2014](./vmesno/slike/nesrece_avtoceste_lokalne_ceste.png?raw=true "Nesreče na avtocestah in lokalnih cesta od leta 2003 do 2014")
 
 Ugotovitve:
  - v letu 2003 je bilo na lokalnih cestah več nesreč kot na avtocestah. Sklepamo, da je razlog to, da v Sloveniji nismo imeli veliko kilomentrov avtocest, ali pa so jih ljudje uporabljali manj,
@@ -55,7 +55,7 @@ Za zadnjo analizo pa smo uporabili podatke o nesrečah z vinjenimi vozniki. Prim
 
 Naše ugotovitve se vidijo na spodnjem grafu.
 
-![Vozniki in voznice po količini alkohola v krvi](./vmesno/nesrece_pod_vplivom_alkohola.png?raw=true "Nesreče na avtocestah in lokalnih cesta od leta 2003 do 2014")
+![Vozniki in voznice po količini alkohola v krvi](./vmesno/slike/nesrece_pod_vplivom_alkohola.png?raw=true "Nesreče na avtocestah in lokalnih cesta od leta 2003 do 2014")
 
 Ugotovitve:
  - Število moških v posamezni kategoriji je veliko več kot žensk (tudi do 10-krat več). Glavni razlog po naše tiči v tem, da je na cesti veliko več voznikov kot voznic, vemo pa tudi, da se v večini moški zadržujejo v gostilnah, ki se najverjetneje potem pijani peljejo proti domu.

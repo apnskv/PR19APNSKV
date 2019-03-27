@@ -38,7 +38,7 @@ Ugotovili smo:
  - da je na začetku leta število nesreč zelo visoko, nato pa počasi pada proti koncu leta, kjer se v začetku zime spet nekoliko dvigne,
  - da število udeležencev z lahkimi telesnimi poškodbami sorazmerno niha z številom nesreč, vendar pa spremembe niso tako drastične.
 
-Tretjo analizo smo delali nad podatki o nesrečah iz različnih vrst cest v Sloveniji. Primerjali smo število nesreč na avtocestah in lokalnih cestah skozi leta od leta 2003 do 2014.
+Tretjo analizo smo izdelali nad podatki o nesrečah iz različnih vrst cest v Sloveniji. Primerjali smo število nesreč na avtocestah in lokalnih cestah skozi leta od leta 2003 do 2014.
 
 Na spodnjem grafu se lepo vidi razlika med številom nesreč na avtocesti ter na lokalnih cestah.
 
@@ -51,3 +51,16 @@ Ugotovitve:
  - nesreče na lokalnih cestah so vsako leto nižje. Razlogi so verjetno v varnejših avtomobilih, varnejših voznikih in prometni signalizaciji,
  - sklepamo, da povečana varnost v prometu ter ozaveščanje voznikov zelo pripomore k manjšanju števila prometnih nesreč na naših cestah.
 
+Za zadnjo analizo pa smo uporabili podatke o nesrečah z vinjenimi vozniki. Primerjali smo voznike in voznice, razdelili pa smo jih v tri kategorije, in sicer od 0.5 do 0.8 promila v krvi, od 0.8 do 1.5 promila v krvi in od 1.5 promila v krvi naprej. Podatki so zbrani od leta 2007 do 2014.
+
+Naše ugotovitve se vidijo na spodnjem grafu.
+
+![Vozniki in voznice po količini alkohola v krvi](./vmesno/nesrece_pod_vplivom_alkohola.png?raw=true "Nesreče na avtocestah in lokalnih cesta od leta 2003 do 2014")
+
+Ugotovitve:
+ - Število moških v posamezni kategoriji je veliko več kot žensk (tudi do 10-krat več). Glavni razlog po naše tiči v tem, da je na cesti veliko več voznikov kot voznic, vemo pa tudi, da se v večini moški zadržujejo v gostilnah, ki se najverjetneje potem pijani peljejo proti domu.
+ - Število vinjenih se z višjim nivojem alkohola v krvi povečuje, čeprav smo mislili, da temu ne bo tako.
+ 
+ **Zaključek**
+ 
+ 

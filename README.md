@@ -4,14 +4,14 @@ Avtorji: Aljaž Podkrižnik (63170238), Klemen Vogler (63170305) in Nace Selišn
 
 Za projekt smo si izbrali analizo podatkov povezanih s prometnimi nesrečami na slovenskih cestah do leta 2014. 
 
-Našli smo podatke o nesrečah glede na mesec in uro v dnevu, nesreče povezane z alkoholom ter vrste cest, kjer se zgodi največ prometnih nesreč. Našli smo tudi podatke o tem, kako so se prometne nesreče končale.
+Našli smo podatke o nesrečah glede na mesec in uro v dnevu, nesreče povezane z alkoholom, ter vrste cest, kjer se zgodi največ prometnih nesreč. Našli smo tudi podatke o tem, kako so se prometne nesreče končale.
 
 Naši cilji so:
   - Ugotoviti najpogostejše vzroke za prometno nesrečo
   - Ob katerem času se zgodi največ nesreč (v katerh mesecih v letu in ob katerih urah v posameznem dnevu)
   - Ugotoviti na katerih vrstah cest so nesreče najbolj pogoste
   - Ugotoviti najpogostejši izid nesreč
-  - Primerjati vse zgornje ugotovitve in posikati povezavo med njimi
+  - Primerjati vse zgornje ugotovitve in poiskati povezavo med njimi
 
 Izdelali smo vizualizacije podatkov oziroma grafe, ki na zanimiv, razločen in lahko berljiv način predstavijo naše ugotovitve. Poleg tega pa smo ugotovitve tudi analizirali.
 
